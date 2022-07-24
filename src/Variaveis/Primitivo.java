@@ -26,6 +26,7 @@ public class Primitivo {
 		/*TIPOS PRIMARIOS*/
 		
 		// boolean (true or false)
+		boolean tipoBoo = true;
 		
 		// byte - 1 byte (of -128 à 127)
 		byte tipoByte = -127;
